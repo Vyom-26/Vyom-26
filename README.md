@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vyom Goyal</h1>
-<h3 align="center">Second-year undergraduate and aspiring full-stack developer</h3>
+<h3 align="center">Third-year undergraduate and aspiring full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyom-26&label=Profile%20views&color=0e75b6&style=flat" alt="vyom-26" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vyom-26" alt="vyom-26" /></a> </p>
 
-- 🔭 I’m currently working on **Multilingual PIB Press Release to Video Conversion**
+- 🔭 I’m currently working on **A software application for analysis of DWLR data and raise alarms in respect of anomalous values, faulty DWLRs **
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 📫 How to reach me **vyomgoyal2004@gmail.com**
 
