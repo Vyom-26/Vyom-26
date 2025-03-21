@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vyom-26" alt="vyom-26" /></a> </p>
 
-- 🔭 I’m currently working on **Similarity, a software application aimed at telling the similarity between codes submitted during live contest on various coding websites**
+- 🔭 I’m currently working on **Similarity, a software application designed to assess the similarity between code submissions during live contests on various coding websites.**
 
 - 🌱 I’m currently learning **SpringBoot**
 
